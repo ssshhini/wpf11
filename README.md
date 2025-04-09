@@ -7,4 +7,4 @@ Practic_11
 
 Консоль:
 
-изображение
+![image](https://github.com/user-attachments/assets/00a37fb2-e880-48c8-bcd3-86715a3e5381)
